@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+.wrap{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px 5px;
+}
+
+ul.button {
+    padding: 15px 0px;
+}
+.button li{
+    display:inline-block;
+}
+
+.templ-name {
+    border: 2px solid;
+    padding: 5px 15px;
+    margin:0px 15px 0px 0px;
+    cursor: pointer;
+    position:relative;
+}
+fieldset {
+    padding: 15px 10px;
+    margin: 15px 0px 0px 0px;
+    border: 1px solid;
+}
+fieldset ul{
+    padding:5px 0px;
+    margin:0px 0px 15px 0px;
+}
+fieldset ul li{
+    display:inline-block;
+}
+input{
+    font-size:1.0em;
+}
+input[type="text"]{
+    padding:5px;
+}
+input[type="submit"], a.link{
+    width:100px;
+    background:#007ed0;
+    color:#fff;
+    border:none;
+    padding:10px 20px;
+    margin:10px 0px;
+    cursor:pointer;
+    text-decoration: none;
+}
+a.link{
+    display:block;
+    margin:5px 0px 15px 0px;
+    width:265px;
+    text-align: center;
+}
+label {
+    margin:0 10px;
+}

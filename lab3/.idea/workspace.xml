@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3c658c7-13e7-4cd6-a175-79ca9524715f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VAePwAxmG8ADvsHfHDOrllVTp4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladg\WebstormProjects\lab3" />
+      <recent name="C:\Users\Vladg\WebstormProjects\lab3\public" />
+      <recent name="C:\Users\Vladg\WebstormProjects\lab3\public\assets" />
+      <recent name="C:\Users\Vladg\WebstormProjects\lab3\public\assets\json" />
+      <recent name="C:\Users\Vladg\WebstormProjects\lab3\public\json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="connect.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/connect.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.connect.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3c658c7-13e7-4cd6-a175-79ca9524715f" name="Default Changelist" comment="" />
+      <created>1576700305529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576700305529</updated>
+      <workItem from="1576700306752" duration="2522000" />
+      <workItem from="1576762461165" duration="11492000" />
+      <workItem from="1576776081469" duration="10008000" />
+      <workItem from="1576842558651" duration="7660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="936" height="320" key="GridCell.Tab.0.bottom" timestamp="1576850865713">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="936" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1576850865713" />
+    <state width="936" height="320" key="GridCell.Tab.0.center" timestamp="1576850865713">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="936" height="320" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1576850865713" />
+    <state width="936" height="320" key="GridCell.Tab.0.left" timestamp="1576850865713">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="936" height="320" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1576850865713" />
+    <state width="936" height="320" key="GridCell.Tab.0.right" timestamp="1576850865713">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="936" height="320" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1576850865713" />
+    <state x="-7" y="0" width="974" height="1167" key="dock-window-1" timestamp="1576784676943">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-7" y="0" width="974" height="1167" key="dock-window-1/0.0.1920.1160@0.0.1920.1160" timestamp="1576784676943" />
+  </component>
+</project>
